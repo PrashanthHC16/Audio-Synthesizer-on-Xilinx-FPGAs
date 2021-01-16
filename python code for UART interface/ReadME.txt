@@ -1,0 +1,1 @@
+Configured to work on windows 10, with 9600 baud rate on COM7
